@@ -14,3 +14,12 @@ Welcome to the JWT Authentication! This repository showcases a comprehensive JWT
 - TypeScript for Type Safety: Leverages TypeScript's strong typing to catch errors early in development and enhance code readability.
 - ReactJS for Interactive UI: The front-end of the application is built using ReactJS, delivering an interactive and intuitive user interface.
 - React-Query for Server-State Management: Implements React-Query to centralize and manage server states efficiently, ensuring optimized performance.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature/fix: git checkout -b feature-name.
+Commit your changes: git commit -m "add your message".
+Push to your branch: git push origin feature-name.
+Open a pull request.
