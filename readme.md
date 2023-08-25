@@ -1,12 +1,16 @@
-# JWT Authentication API with Express.js and TypeScript
+# JWT Authentication with Express, MongoDB, React, React-Query, and TypeScript
 
-This project demonstrates JWT authentication API built using Express.js and TypeScript. It includes user registration, login, profile retrieval, token-based authentication, and refresh token functionality.
+Welcome to the JWT Authentication! This repository showcases a comprehensive JWT authentication service built using the MERN stack (MongoDB, Express, React, Node.js) and TypeScript. The project offers a seamless user experience by providing features like user registration, login, profile retrieval, token-based authentication, and refresh token functionality.
 
 ## Features
 
-- User registration and login with password hashing
-- JWT-based authentication and token refresh
-- Profile retrieval for authenticated users
-- Error handling and middleware implementation
-- Express-validator for input validation
-- MongoDB integration using Mongoose
+- User Registration and Login: Secure user registration and login processes, utilizing password hashing to ensure data privacy.
+- JWT-Based Authentication: Implements JSON Web Tokens (JWT) for user authentication, ensuring secure data transmission and user authorization.
+- Token Refresh: The project incorporates token refresh functionality to ensure continuous user sessions and enhance security.
+- Profile Retrieval: Authenticated users can retrieve their profiles, providing personalized experiences within the application.
+- Error Handling and Middleware: Robust error handling and middleware implementation enhance the stability and reliability of the application.
+- Input Validation with Express-Validator: Utilizes Express-validator to validate user inputs, preventing potential security vulnerabilities.
+- MongoDB Integration using Mongoose: Seamless integration with MongoDB database using Mongoose, offering a scalable and efficient data storage solution.
+- TypeScript for Type Safety: Leverages TypeScript's strong typing to catch errors early in development and enhance code readability.
+- ReactJS for Interactive UI: The front-end of the application is built using ReactJS, delivering an interactive and intuitive user interface.
+- React-Query for Server-State Management: Implements React-Query to centralize and manage server states efficiently, ensuring optimized performance.
