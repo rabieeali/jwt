@@ -18,12 +18,8 @@ Welcome to the JWT Authentication! This repository showcases a comprehensive JWT
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-
-Create a new branch for your feature/fix: git checkout -b feature-name.
-
-Commit your changes: git commit -m "add your message".
-
-Push to your branch: git push origin feature-name.
-
-Open a pull request.
+1. Fork the repository
+2. Create a new branch for your feature/fix: git checkout -b feature-name.<br>
+3. Commit your changes: git commit -m "add your message".<br>
+4. Push to your branch: git push origin feature-name.<br>
+5. Open a pull request.<br>
